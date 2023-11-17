@@ -1,9 +1,31 @@
 body {
-    background-color: rebeccapurple;
-    padding: 3rem 1rem 0 1rem;
+    background-color: #82AC85;
+    padding: 3rem 1.5rem 0 1.5rem;
     font: Georgia;
     color: white;
   }
   img{
-    width: 4rem;
+    height: 18rem;
+    padding: 0 .8rem 0 .8rem;
+  }
+  .heights{
+    color: #BFd8C4;
+  }
+  .pies{
+    display: flex;
+    align-content: center;
+  }
+  h2{
+    color: #588066;
+  }
+  .heights{
+    font-size: 2.5rem;
+  }
+  .stats{
+    display: flex;
+    align-content: center;
+    padding: 2rem 0 2rem 13rem;
+  }
+  .map{
+    padding: 0 0 5rem 23rem;
   }
